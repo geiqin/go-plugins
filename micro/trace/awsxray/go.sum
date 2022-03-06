@@ -65,6 +65,8 @@ github.com/fsnotify/fsnotify v1.5.1 h1:mZcQUHVQUQWoPXXtuf9yuEXKudkV2sx1E06UadKWp
 github.com/fsnotify/fsnotify v1.5.1/go.mod h1:T3375wBYaZdLLcVNkcVbzGHY7f1l/uK5T5Ai1i3InKU=
 github.com/geiqin/go-micro v1.0.4 h1:ykDeoVtKigfP7y+j/CRbr97ZBOsTIObWbTpCP35gzPQ=
 github.com/geiqin/go-micro v1.0.4/go.mod h1:M/toXHuBB3HTy53yDlkxdcfwUkj2d0TTtLLXIjTaUTo=
+github.com/geiqin/go-plugins/wrapper/trace/awsxray/v2 v2.0.0-20220306034312-69ff413b69f0 h1:ntUszAhieZGpKQt725HtBvw2kxKfcuLeZQJQRRTzdOs=
+github.com/geiqin/go-plugins/wrapper/trace/awsxray/v2 v2.0.0-20220306034312-69ff413b69f0/go.mod h1:da8hyXCKBqyD3wsnC74fxEcQGQxiOj4c8XHw6CQ9Y9Y=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.2.2/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=

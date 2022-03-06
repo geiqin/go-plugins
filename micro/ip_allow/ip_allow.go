@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/micro/cli/v2"
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/micro/plugin"
+	"github.com/micro/cli/v2"
 )
 
 type allow struct {

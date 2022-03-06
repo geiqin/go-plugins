@@ -4,9 +4,9 @@ package metrics
 import (
 	"net/http"
 
-	"github.com/micro/cli/v2"
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/micro/plugin"
+	"github.com/micro/cli/v2"
 
 	// prometheus metrics
 	"github.com/geiqin/go-plugins/micro/metrics/prometheus/v2"

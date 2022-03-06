@@ -18,6 +18,7 @@ require (
 	github.com/emirpasic/gods v1.12.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/geiqin/go-micro v1.0.4 // indirect
+	github.com/geiqin/go-plugins/wrapper/trace/awsxray/v2 v2.0.0-20220306034312-69ff413b69f0 // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-git/gcfg v1.5.0 // indirect
 	github.com/go-git/go-billy/v5 v5.3.1 // indirect
